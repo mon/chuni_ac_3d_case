@@ -12,11 +12,11 @@ For all pieces, I used 10% infill, no supports, 0.28mm layer height (Cura's
 
 ## Installation
 You will need
-- M4 bolt x4
+- M4 bolt x4, 14mm or longer
 - M4 washer x4
 - M4 nut x4
-- M5 bolt x4 (these may already exist in the black metal brackets the airs were
-  originally attached to)
+- M5 bolt x4, 6mm or longer (these may already exist in the black metal brackets
+  the airs were originally attached to)
 - Soldering iron or hot object (to press-fit M4 nuts into 3D print)
 - About 600g of filament
 - 8 rubber adhesive feet
