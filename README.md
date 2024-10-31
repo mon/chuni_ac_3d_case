@@ -88,6 +88,7 @@ and potentially shatter the piece.
 ## Lasercuttable Airs
 
 If you don't have a big enough printer or want to make the airs out of another material.
+
 Lasercut `air_lasercut` in the `dxfs` folder with 8mm thick material.
 
 ![arcrylic air](./img/arcrylic.jpg)
