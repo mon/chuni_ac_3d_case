@@ -24,7 +24,8 @@ You will need
 Print all the pieces in the `stl` folder. Ignore `coin_return_cherry_mx` if
 you're not going to use it. The `air_bottom` piece will need to be flipped in
 your slicer so the flat side is on the bed. Also, mirror `air_bottom` and print
-another copy for the opposite air.
+another copy for the opposite air. Ignore `air_bottom` and `air_top` if you want to
+lasercut the airs.
 
 Disassemble your air strings, making note of the 2 shorter bolts on the front
 side. Put the printed pieces in and reinstall screws. DO NOT OVER-TIGHTEN. The
@@ -83,3 +84,12 @@ I printed this using 0.2mm layer height and used the original nut and washer
 to attach it to the metal. It was _extremely_ tight, so I recommend playing with
 the tolerances in the thread library if you don't want to get out two spanners
 and potentially shatter the piece.
+
+## Lasercuttable Airs
+
+If you don't have a big enough printer or want to make the airs out of another material.
+Lasercut `air_lasercut` in the `dxfs` folder with 8mm thick material.
+
+![arcrylic air](./img/arcrylic.jpg)
+
+I used a combination of 5mm and 3mm arcrylic to make it 8mm thick.
